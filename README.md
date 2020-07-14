@@ -1,6 +1,6 @@
 # example_flutter_darkmode_provider
 
-Please visit [omadijaya.id](https://omadijaya.id) for detail artcile about Flutter Dynamic Dark mode with Provider and shared_preferences
+Please visit [omadijaya.id](https://omadijaya.id/flutter-dynamic-dark-mode-with-provider-and-shared-preferences/) for detail artcile about Flutter Dynamic Dark mode with Provider and shared_preferences
 
 
 ## Getting Started
